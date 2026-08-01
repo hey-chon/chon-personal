@@ -1193,8 +1193,7 @@ img {
 }
 
 .timeline-card.gold-card {
-  border-color: rgba(250, 204, 21, 0.3);
-  box-shadow: 0 0 15px rgba(250, 204, 21, 0.1);
+  border-color: var(--border);
 }
 
 .timeline-date {
