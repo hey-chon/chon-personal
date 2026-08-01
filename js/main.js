@@ -161,7 +161,7 @@
       tags: ['HTML', 'CSS', 'JavaScript'],
       icons: ['fa-brands fa-html5', 'fa-brands fa-css3-alt', 'fa-brands fa-js'],
       iconColors: ['#f97316', '#60a5fa', '#facc15'],
-      url: 'https://chon-portfolio.netlify.app/',
+      url: 'https://chondev-prtfl.netlify.app/',
       meta: 'Personal project',
       featured: true,
     },
